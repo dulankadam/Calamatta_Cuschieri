@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CC_ChatQueue", "CC_ChatQueue\CC_ChatQueue.csproj", "{76F37B5A-79AC-3A82-6099-BE5A7EA39EB5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CC_ChatQueue", "CC_ChatQueue.csproj", "{DBAAE401-B135-3F51-B50F-11CF615EDD0A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CC_ChatQueue.Tests", "CC_ChatQueue.Tests\CC_ChatQueue.Tests.csproj", "{8424C3E4-14C7-4DEF-AA7F-E900B00B08B4}"
 EndProject
