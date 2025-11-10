@@ -1,0 +1,6 @@
+@CC_ChatQueue_HostAddress = http://localhost:5005
+
+GET {{CC_ChatQueue_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
